@@ -19,8 +19,8 @@ This project showcases the use of `require`, `assert`, and `revert` statements i
 
 4. **Compile the Contract**:
    - Go to the "Solidity Compiler" tab in Remix.
-   - Select the appropriate compiler version (`^0.8.18` or higher) from the dropdown.
-   - Click on "Compile HelloWorld.sol" to compile the contract.
+   - Select the appropriate compiler version (`^0.8.0`) from the dropdown.
+   - Click on "Compile m3.sol" to compile the contract.
 
 5. **Deploy the Contract**:
    - Go to the "Deploy & Run Transactions" tab in Remix.
